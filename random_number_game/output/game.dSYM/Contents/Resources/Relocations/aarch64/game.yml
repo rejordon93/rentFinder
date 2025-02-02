@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethan93/Desktop/C/random_number_game/output/game'
+relocations:     []
+...
